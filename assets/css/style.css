@@ -1,7 +1,6 @@
 ---
 ---
 @import "{{ site.theme }}";
-.container { width:100%; }
 .inner1 {
   margin: 0 auto;
   max-width:75%; 
